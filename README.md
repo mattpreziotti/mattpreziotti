@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mattp22 
+- 👋 Hi, I’m @prez 
 - 🧑‍💻 I’m currently working on my workflow. nvim + tmux = easy dev.
 - ⌨️ Just finished working on a split keyboard build.
 - 🌱 Learning Golang and React
