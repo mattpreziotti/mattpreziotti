@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @prez 
+
 - 🧑‍💻 I’m currently working on my workflow. nvim + tmux = easy dev.
+
 - ⌨️ Just finished working on a split keyboard build.
+
 - 🌱 Learning Golang and React
+
 - 📫 How to reach me:
   - Email: matthew.preziotti@gmail.com
 
