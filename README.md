@@ -1,15 +1,14 @@
 - 👋 Hi, I’m @prez 
 
-- 🧑‍💻 I’m currently working on my workflow. nvim + tmux = easy dev.
+- 🧑‍💻 I’m currently working on my [dotfiles repo](https://github.com/mattpreziotti/.dotfiles).
+  - Just ported my Neovim config over to Lua :)
+  - Swapped Alacritty for Kitty
+  - Planning on extending Telescope functionality and zsh
 
-- ⌨️ Just finished working on a split keyboard build.
+- ⌨️ Recently worked on a split keyboard build. (Corne model)
+  - Going to upgrade to a nice!nano controller to make bluetooth.
 
-- 🌱 Learning Golang and React
+- 🌱 Expanding React and Golang knowledge
 
 - 📫 How to reach me:
   - Email: matthew.preziotti@gmail.com
-
-<!---
-mattp22/mattp22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
